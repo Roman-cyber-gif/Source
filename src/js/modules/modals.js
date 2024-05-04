@@ -36,7 +36,7 @@ const modals = () => {
             document.body.style.overflow = 'hidden';
         }, time);
     }
-    showModalByTime('.popup', 3000);
+    // showModalByTime('.popup', 60000);
 
     // const callEngineerBtn = document.querySelector('.popup_engineer_btn'),
     //         modalEngineer = document.querySelector('.popup_engineer'),
